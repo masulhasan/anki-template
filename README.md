@@ -1,3 +1,5 @@
+Credit : https://github.com/pranavdeshai
+
 # Prettify
 
 Collection of customizable Anki flashcard templates with modern and clean themes.
